@@ -36,12 +36,6 @@ Passionate machine learning engineer committed to pushing the boundaries of arti
    - Image processing techniques
    - Object detection frameworks (YOLO, SSD)
 
-# **Reinforcement Learning:**
-   - OpenAI Gym
-   - RLlib
-   - Deep Q-Networks (DQNs)
-   - Policy gradient methods
-
 # **Feature Engineering:**
    - Dimensionality reduction (PCA, t-SNE)
    - Feature scaling and selection
@@ -79,8 +73,8 @@ Passionate machine learning engineer committed to pushing the boundaries of arti
     - Effective communication of technical concepts to both technical and non-technical stakeholders
 
 
-## 📫 How to reach me by gmail , talal.atef.8801@gmail.com
-### 🔗 my linkes for more information about me [my linkedin](https://www.linkedin.com/in/talal-atef-997580204/) and [my meduim](https://medium.com/@talal.atef.801)
+# 📫 How to reach me by gmail , talal.atef.8801@gmail.com
+# 🔗 my linkes for more information about me [my linkedin](https://www.linkedin.com/in/talal-atef-997580204/) and [my meduim](https://medium.com/@talal.atef.801)
 
 <!---
 talalatef/talalatef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
