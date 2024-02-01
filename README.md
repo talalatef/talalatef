@@ -1,11 +1,11 @@
 ## 🚀 Data Scientist | Machine Learning Enthusiast
 
-Passionate about unraveling the stories hidden in data and transforming them into actionable insights. A seasoned Data Scientist with a knack for developing and deploying machine learning models. Proficient in Python, R, and the art of turning complex data into simple, impactful solutions.
+Passionate about unraveling the stories hidden in data and transforming them into actionable insights. A seasoned Data Scientist with a knack for developing and deploying machine learning models. Proficient in Python and the art of turning complex data into simple, impactful solutions.
 
 ### 🔍 Key Skills:
 - Machine Learning | Statistical Analysis | Data Visualization
 - Python | Excel | SQL 
-- PyTorch | Scikit-Learn
+- PyTorch | Scikit-Learn | Pandas | Matplotlib
 
 ### 💻 Tech Stack:
 - Jupyter | Power BI | Git
