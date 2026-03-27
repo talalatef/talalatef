@@ -3,10 +3,11 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Talal%20Atef&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=AI%20%26%20Software%20Engineer%20%7C%20Backend%20Developer&descAlignY=58&descSize=16&descColor=8892b0&animation=fadeIn" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=650&height=50&lines=🤖+Autonomous+Agentic+AI+Systems;🧠+AI+Orchestration+%26+RAG+Models;⚙️+Fine-tuning+%26+Model+Training;🚀+Scalable+Backend+Architecture;🌐+From+Raw+Data+to+Intelligent+Solutions" alt="Typing SVG" />
-</a>
+<!-- Skill Highlight Badges -->
+<img src="https://img.shields.io/badge/🤖_Agentic_AI-Systems_Builder-00d4ff?style=flat-square&labelColor=0d1117&color=00d4ff" />
+<img src="https://img.shields.io/badge/🧠_RAG-Pipeline_Architect-00d4ff?style=flat-square&labelColor=0d1117&color=00d4ff" />
+<img src="https://img.shields.io/badge/⚙️_LLM-Fine--tuning_%26_Training-00d4ff?style=flat-square&labelColor=0d1117&color=00d4ff" />
+<img src="https://img.shields.io/badge/🚀_Model-Deployment_%26_Serving-00d4ff?style=flat-square&labelColor=0d1117&color=00d4ff" />
 
 <br/>
 
