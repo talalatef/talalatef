@@ -11,7 +11,7 @@
 
 <br/>
 
-<!-- Profile Views & Followers -->
+<!-- Profile Views &amp; Followers -->
 <img src="https://komarev.com/ghpvc/?username=talalatef&amp;style=for-the-badge&amp;color=00d4ff&amp;label=PROFILE+VIEWS" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/talalatef?style=for-the-badge&amp;color=00d4ff&amp;labelColor=0d1117&amp;label=FOLLOWERS" />
@@ -29,13 +29,13 @@
 class AIEngineer:
     def __init__(self):
         self.name        = "Talal Atef"
-        self.role        = "AI & Software Engineer"
+        self.role        = "AI &amp; Software Engineer"
         self.focus       = [
             "Autonomous Agentic AI",
             "AI Orchestration",
             "RAG Systems",
-            "LLM Fine-tuning & Training",
-            "Model Deployment & Serving"
+            "LLM Fine-tuning &amp; Training",
+            "Model Deployment &amp; Serving"
         ]
         self.philosophy  = "I don't just implement AI — I architect it."
         self.mission     = "Bridge raw data → sophisticated AI solutions"
@@ -44,7 +44,7 @@ class AIEngineer:
         return "Building autonomous agents that go beyond chat to real action."
 ```
 
-<br clear="right"/>
+<br/>
 
 ---
 
@@ -52,11 +52,11 @@ class AIEngineer:
 
 <div align="center">
 
-### 🧠 AI & Machine Learning Core
+### 🧠 AI &amp; Machine Learning Core
 
 | Domain | Technologies |
 |--------|-------------|
-| **Agentic AI & Orchestration** | LangChain · LangGraph · AutoGen · CrewAI · N8n |
+| **Agentic AI &amp; Orchestration** | LangChain · LangGraph · AutoGen · CrewAI · N8n |
 | **RAG Systems** | Vector DBs · Embeddings · Semantic Search · Knowledge Graphs |
 | **Model Fine-tuning** | LoRA · QLoRA · PEFT · SFT · RLHF |
 | **Model Training** | PyTorch · TensorFlow · Transformers · Hugging Face |
@@ -121,7 +121,7 @@ class AIEngineer:
 │   └────────────────────────────────────────────────────┘      │    │
 │        │                                                       │    │
 │        ▼                                                       │    │
-│   🚀 DEPLOYMENT & SERVING                                      │    │
+│   🚀 DEPLOYMENT &amp; SERVING                                      │    │
 │   Docker · API Layer · Monitoring · Scalability ───────────────┘    │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
@@ -150,12 +150,12 @@ class AIEngineer:
 <div align="center">
 
 ```
-✅  Designed & deployed fully autonomous AI agent teams
+✅  Designed &amp; deployed fully autonomous AI agent teams
 ✅  Built production-grade RAG pipelines from scratch
-✅  Fine-tuned & trained custom LLMs (LoRA, QLoRA, SFT)
+✅  Fine-tuned &amp; trained custom LLMs (LoRA, QLoRA, SFT)
 ✅  Architected multi-agent orchestration frameworks
 ✅  Delivered AI-powered automation across real-world workflows
-✅  Integrated Claude API with complex tool use & structured outputs
+✅  Integrated Claude API with complex tool use &amp; structured outputs
 ```
 
 </div>
