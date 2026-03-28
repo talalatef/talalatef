@@ -115,11 +115,11 @@ class AIEngineer:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talalatef&show_icons=true&theme=tokyonight&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0&border_color=1a1a2e&bg_color=0d1117&hide_border=false&rank_icon=github&custom_title=GitHub+Stats)
-![Streak](https://streak-stats.demolab.com?user=talalatef&theme=tokyonight&background=0d1117&border=1a1a2e&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8892b0&sideNums=ffffff&currStreakNum=ffffff&dates=8892b0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talalatef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talalatef&theme=tokyonight&title_color=00d4ff&text_color=8892b0&border_color=1a1a2e&bg_color=0d1117&layout=compact&langs_count=8&custom_title=Most+Used+Languages)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talalatef&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talalatef&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+
+![Streak](https://streak-stats.demolab.com?user=talalatef&theme=tokyonight&hide_border=true)
 
 </div>
 
